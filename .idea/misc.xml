@@ -13,12 +13,15 @@
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/drawable/ic_run.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/drawable/ic_settings.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/drawable/ic_stop_black_24dp.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/drawable/round_text_view.xml" value="0.2703125" />
+        <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_run.xml" value="0.4" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_settings.xml" value="0.176" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_setup.xml" value="0.264" />
-        <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.264" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/fragment_tracking.xml" value="0.16770833333333332" />
         <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/layout/item_run.xml" value="0.176" />
+        <entry key="..\:/Users/SACHIN/AndroidStudioProjects/RunningTracker/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
